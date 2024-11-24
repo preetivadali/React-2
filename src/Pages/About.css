@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+  }
+
+h1{
+    text-align: center;
+}
+
+label{
+     font-Size: 55px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+button{
+
+    margin:20px;
+    padding: 10px 20px;
+    font-Size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid greenyellow;
+}
