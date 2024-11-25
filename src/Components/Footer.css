@@ -1,4 +1,4 @@
-/* Ensure the body fills the entire height of the viewport */
+
 body {
     margin: 0;
     display: flex;
@@ -8,10 +8,10 @@ body {
   
   /* Style for the Footer */
   footer {
-    margin-top: auto; /* Push the footer to the bottom */
+    margin-top: auto;
     text-align: center;
-    background-color: #333; /* Optional: background color */
-    color: white; /* Optional: text color */
+    background-color: #333;
+    color: white; 
     padding: 10px;
   }
   
