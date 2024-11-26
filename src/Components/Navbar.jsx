@@ -16,6 +16,10 @@ function Navbar(){
                     <li> 
                         <Link to = "/contact">Contact</Link>
                         </li>
+
+                        <li> 
+                        <Link to = "/colorpicker">ColorPicker</Link>
+                        </li>
                 </ul>
             </nav>
         </div>
