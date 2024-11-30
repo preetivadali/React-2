@@ -17,8 +17,12 @@ function Navbar(){
                         <Link to = "/contact">Contact</Link>
                         </li>
 
-                        <li> 
+                    <li> 
                         <Link to = "/colorpicker">ColorPicker</Link>
+                        </li>
+
+                    <li> 
+                        <Link to = "/todolist">ToDoListr</Link>
                         </li>
                 </ul>
             </nav>

@@ -5,6 +5,7 @@ import Contact from './Pages/Contact';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import ColorPicker from './Pages/ColorPicker';
+import TodoList from './Pages/ToDoList';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route path="/about" element={<About  />} />
         <Route path="/contact" element={<Contact  />} />
         <Route path="/colorpicker" element={<ColorPicker  />} />
+        <Route path="/todolist" element={<TodoList />} />
       
      
      </Routes>
